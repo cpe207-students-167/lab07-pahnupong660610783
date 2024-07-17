@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ภานุพงศ์ แก้วประมูล
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-pahnupong660610783/
 
 ---
 
